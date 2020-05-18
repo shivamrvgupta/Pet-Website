@@ -188,3 +188,124 @@ text-align: center;
       font-weight: 500;
       text-align: left;
   }
+  .text-box {
+    position: absolute;
+    top: 46%;
+    right: 14%;
+    text-align: center;
+    transform: translateY(-50%);
+    text-align: right;
+}
+h2.wow.slideInRight {
+    color: #09c;
+    font-family: Proxima Nova Rg;
+    font-weight: 700;
+    font-size: 40px;
+}
+carousel-indicators li::before {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 10px;
+    content: "";
+}
+button.btn.btn-default.down1 {
+    font-size: 14px;
+    font-family: open sans;
+    margin: 24px 0 0 0;
+    background: #6c3;
+    color: #fdfdfd;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    float: right;
+    padding: 6px 33px;
+    font-family: open sans;
+}
+#slider-animation .carousel-inner {
+    overflow: hidden !important;
+}
+p.num{
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 45px;
+  color: white;
+}
+
+#service-tabs {
+    padding: 60px 0 0 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  .head_title {
+    color: #4bc1e1;
+    text-align: center;
+    padding: 20px 0 0 0;
+    font-family: Proxima Nova Rg;
+    font-weight: 700;
+    font-size: 3.125em;
+}
+.head_title {
+    color: #4bc1e1;
+    text-align: center;
+    padding: 20px 0 0 0;
+    font-family: Proxima Nova Rg;
+    font-weight: 700;
+    font-size: 3.125em;
+}
+#Ourservices{
+text-align: center;
+    padding-top: 32px;
+    color: #4bc1e1;
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+  #service-tabs .our_service_right_col {
+padding: 80px 20px 60px 50px;
+      background-color: #f4f5f6;
+  }
+  service-tabs .our_service_left_col, #service-tabs .our_service_right_col {
+    padding-left: 0;
+    padding-right: 0
+
+}
+.our_service_left_col img {
+    width: 100%;
+}
+.pet_day_care_ul li {
+    margin-top: 30px;
+    text-align: left;
+    font-size: 14px;
+}
+
+li, ul {
+    list-style-type: none;}
+
+.pet_day_care_heading {
+    font-family: 'Poppins', sans-serif;
+    color: #4bc1e1;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+tabs{
+padding: 80px 20px 60px 50px;
+
+}
+.pet_day_care_head{
+    font-family: 'Poppins', sans-serif;
+    color: #4bc1e1;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+span.numbering {
+    border-radius: 100%;
+    border: 2px solid #fffbfb;
+    padding: 2px;
+    padding: 0px 6px;
+    /* color: #333; */
+}
