@@ -1,4 +1,4 @@
-h5h4#carousel-caption{
+ h5h4#carousel-caption{
     color: pink;
     background-color: black;
     opacity: 70%
@@ -43,13 +43,11 @@ text
 }
 #quicksimple{
   text-align: center;
-image-align: center;
-border-radius: 100%;
 
+border-radius: 100%;
+right: 50%
 }
-#Quick{
-  padding-top: 100px;
-}
+
 #head{
 text-align: center;
 color: #00bcd4 ;
@@ -165,3 +163,28 @@ border-radius: 100%;}
 #quote{
   image-align: center;
 }
+#contact{
+text-align: center;
+    padding-top: 32px;
+    color: #4bc1e1;
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    text-align: left;
+  }
+  #Office{
+      padding-top: 5px;
+      color: #4bc1e1;
+      font-size: 25px;
+      font-family: 'Ubuntu', sans-serif;
+      font-weight: 500;
+      text-align: left;
+  }
+  #add{
+      padding-top: 5px;
+      color: black;
+      font-size: 23px;
+      font-family: 'Ubuntu', sans-serif;
+      font-weight: 500;
+      text-align: left;
+  }
